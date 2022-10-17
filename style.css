@@ -105,8 +105,8 @@ body {
   position: absolute;
   text-align: center;
   top: 45%;
+  width: 100%;
   z-index: 2;
-  transform: translate(-50%, -50%);
 }
 /* Fading animation */
 .fade {
