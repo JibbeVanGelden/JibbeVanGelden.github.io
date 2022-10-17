@@ -52,9 +52,10 @@ body {
     margin-top: -13px;
      margin-right: 10px;
 }
-.currentSite {
+.currentSite a {
     font-style: oblique;
     color: #2A2A2A;
+    font-family: 'Minecraftia';
 }
 /* Slideshow container */
 .slideshow-container {
