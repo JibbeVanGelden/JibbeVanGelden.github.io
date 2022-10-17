@@ -109,10 +109,16 @@ body {
 .active {
   background-color: #717171;
 }
-.photoContainer{
+.mySlides{
+
   position: relative;
   text-align: center;
   color: white;
+}
+.slider-text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 /* Fading animation */
 .fade {
