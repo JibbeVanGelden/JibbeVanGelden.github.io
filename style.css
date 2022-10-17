@@ -109,7 +109,11 @@ body {
 .active {
   background-color: #717171;
 }
-
+.mySlides fade {
+  position: relative;
+  text-align: center;
+  color: white;
+}
 /* Fading animation */
 .fade {
   animation-name: fade;
