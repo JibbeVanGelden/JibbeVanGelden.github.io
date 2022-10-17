@@ -116,8 +116,8 @@ body {
 .slider-text {
   position: absolute;
   text-align: center;
-  top: 50%;
-  left: 50%;
+  top: 40%;
+  left: 40%;
   z-index: 2;
   transform: translate(-50%, -50%);
 }
