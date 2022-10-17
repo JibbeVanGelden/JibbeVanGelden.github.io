@@ -58,8 +58,8 @@ body {
   width:90%;
   position: relative;
   margin: auto;
+  border-radius: 3%;
   overflow: hidden;
-  border-radius: 15px;
   z-index: 1;
 }
 
