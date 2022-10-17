@@ -109,7 +109,7 @@ body {
 .active {
   background-color: #717171;
 }
-.mySlides fade {
+.photoContainer{
   position: relative;
   text-align: center;
   color: white;
