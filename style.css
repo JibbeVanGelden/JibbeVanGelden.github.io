@@ -65,12 +65,14 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+  z-index: 2;
 }
 .subtitle-slideshow{
   position: absolute;
   top: 60%;
   left: 50%;
   transform: translate(-40%, -50%);
+  z-index: 2;
 }
 /* Caption text */
 .slideshow-title {
