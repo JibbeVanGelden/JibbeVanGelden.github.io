@@ -106,7 +106,7 @@ body {
 .slider-text {
   position: absolute;
   text-align: center;
-  top: 35%;
+  top: 25%;
   width: 100%;
   z-index: 2;
   margin-left: auto;
@@ -116,7 +116,7 @@ body {
   font-family: 'Minecraftia', sans-serif;
   color: white;
   font-size: 50px;
-  Line-height: 5px;
+  Line-height: 1px;
 }
 .slider-text h2{
   font-family: 'Minecraftia', sans-serif;                                          
