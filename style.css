@@ -60,20 +60,7 @@ body {
   margin: auto;
   z-index: 1;
 }
-.title-slideshow{
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  z-index: 2;
-}
-.subtitle-slideshow{
-  position: absolute;
-  top: 60%;
-  left: 50%;
-  transform: translate(-40%, -50%);
-  z-index: 2;
-}
+
 /* Caption text */
 .slideshow-title {
   color: #f2f2f2;
@@ -117,8 +104,7 @@ body {
 .slider-text {
   position: absolute;
   text-align: center;
-  top: 40%;
-  left: 40%;
+  top: 45%;
   z-index: 2;
   transform: translate(-50%, -50%);
 }
