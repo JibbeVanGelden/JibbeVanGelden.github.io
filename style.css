@@ -106,7 +106,7 @@ body {
 .slider-text {
   position: absolute;
   text-align: center;
-  top: 45%;
+  top: 35%;
   width: 100%;
   z-index: 2;
   margin-left: auto;
