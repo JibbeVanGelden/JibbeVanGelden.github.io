@@ -44,6 +44,9 @@ body {
 .sticky + .content {
   padding-top: 80px;
 }
+.sticky+ .slideshow-container {
+  padding-top: 80px;
+}
  .logo-image img{
     width: 46px;
     height: 46px;
