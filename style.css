@@ -60,7 +60,18 @@ body {
   margin: auto;
   z-index: 1;
 }
-
+.title-slideshow{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.subtitle-slideshow{
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-40%, -50%);
+}
 /* Caption text */
 .slideshow-title {
   color: #f2f2f2;
