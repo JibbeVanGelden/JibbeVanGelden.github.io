@@ -111,6 +111,7 @@ body {
 }
 .slider-container {
   position: relative;
+  background-color: black;
 }
 .slider-text {
   position: absolute;
