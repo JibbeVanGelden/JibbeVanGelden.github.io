@@ -115,12 +115,12 @@ body {
 .slider-text h1{
   font-family: 'Minecraftia', sans-serif;
   color: white;
-  font-size: larger;
+  font-size: 200%;
 }
 .slider-text h2{
   font-family: 'Minecraftia', sans-serif;                                          
   color: white;
-  font-size: medium;
+  font-size: 100%;
 }
 /* Fading animation */
 .fade {
