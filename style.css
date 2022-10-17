@@ -31,6 +31,7 @@ body {
 }
 #navbar {
   overflow: hidden;
+  z-index: 3;
 }
 .sticky {
   position: fixed;
@@ -44,9 +45,6 @@ body {
 .sticky + .content {
   padding-top: 80px;
 }
-.sticky+ .slideshow-container {
-  padding-top: 80px;
-}
  .logo-image img{
     width: 46px;
     height: 46px;
@@ -57,10 +55,10 @@ body {
 }
 /* Slideshow container */
 .slideshow-container {
- margin-top: 20px;
   width:90%;
   position: relative;
   margin: auto;
+  z-index: 1;
 }
 
 /* Caption text */
