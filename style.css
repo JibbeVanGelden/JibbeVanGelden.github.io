@@ -1,5 +1,10 @@
-@import url('https://fonts.cdnfonts.com/css/minecraftia');
-@import url('https://fonts.cdnfonts.com/css/minecraft-4');       
+@font-face{font-family:minecraftia;font-style:normal;font-weight:400;src:local('Minecraftia'),url(https://fonts.cdnfonts.com/s/31977/Minecraftia.woff) format('woff')}
+@font-face {
+    font-family: 'Minecraft';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Minecraft'), url('https://fonts.cdnfonts.com/s/36662/MinecraftTen-VGORe.woff') format('woff');
+}
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital@0;1&display=swap');
 body {
     margin: auto;
