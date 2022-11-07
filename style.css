@@ -83,7 +83,8 @@ body {
 .text-1 {
     margin-right: 30px;
     margin-bottom:2vw;
-    text-align:justify
+    text-align:justify;
+    font-family: 'Montserrat';
 }
   .brsmall {
   display: block;
