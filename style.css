@@ -85,6 +85,10 @@ body {
     margin-bottom:2vw;
     text-align:justify
 }
+  .brsmall {
+  display: block;
+  margin-bottom: 1.5em;
+}
 /* Slideshow container */
 .slideshow-container {
   width:90%;
