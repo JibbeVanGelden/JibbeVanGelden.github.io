@@ -169,6 +169,14 @@ body {
   animation-duration: 1s;
 }
 
+.footer {
+  background-color: #717171;
+  padding-top: 1em;
+  padding-bottom: .5em;
+  font-family:'Montserrat';
+  color: #EEEEEE;
+}
+
 @keyframes fade {
   from {opacity: .4} 
   to {opacity: 1}
