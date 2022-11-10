@@ -42,6 +42,7 @@ body {
 .content {
   padding: 16px;
   margin-top: 20px;
+  margin-bottom: 20px;
 }
 .sticky + .content {
   padding-top: 80px;
@@ -171,10 +172,12 @@ body {
 
 .footer {
   background-color: #717171;
+  margin-top: 5ch;
   padding-top: 1em;
   padding-bottom: .5em;
   font-family:'Montserrat';
   color: #EEEEEE;
+  bottom: auto;
 }
 
 @keyframes fade {
