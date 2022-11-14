@@ -42,7 +42,7 @@ body {
 .content {
   padding: 16px;
   margin-top: 20px;
-  margin-bottom: 20px;
+  margin-bottom: 100px;
 }
 .sticky + .content {
   padding-top: 80px;
@@ -86,7 +86,12 @@ body {
     margin-bottom:2vw;
     text-align:justify;
     font-family: 'Montserrat';
-    height: 550px;
+}
+.text-2 {
+  margin-right: 30px;
+  margin-bottom:2vw;
+  text-align:justify;
+  font-family: 'Montserrat';
 }
   .brsmall {
   display: block;
@@ -215,4 +220,5 @@ body {
   font-family:'Montserrat';
   color: #EEEEEE;
   bottom: auto;
+  height: 100px;
 }
