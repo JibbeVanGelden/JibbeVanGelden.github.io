@@ -42,7 +42,14 @@ body {
 .sticky + .content {
   padding-top: 80px;
 }
- .logo-image img{
+.content {
+  padding: 16px;
+  margin-top: 20px;
+}
+#content {
+  margin-bottom: 20px;
+}
+.logo-image img{
     width: 46px;
     height: 46px;
     border-radius: 50%;
@@ -74,11 +81,6 @@ body {
     background-color: #507a45;
     padding: 1vw 2.5vw 1vw 2.5vw;
     border-radius: 2.5vw;
-}
-.content {
-  padding: 16px;
-  margin-top: 20px;
-  margin-bottom: 100px;
 }
 .text-1 {
     margin-right: 30px;
