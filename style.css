@@ -70,6 +70,7 @@ body {
     margin-right: 5vw;
     margin-left: 30px;
     margin-bottom: 2vw;
+    min-width: 170px;
 }
 .menu img {
     padding-top: 10%;
